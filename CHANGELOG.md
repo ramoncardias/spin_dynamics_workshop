@@ -20,5 +20,7 @@ All notable changes to the standalone workshop are documented here.
 
 ### Fixed
 
-- corrected the DMI effective-field cross-product order to match the stated Hamiltonian.
+- corrected the DMI effective-field cross-product order to match the stated Hamiltonian;
+- repaired malformed Markdown/LaTeX escapes and standardized display-math delimiters.
+
 

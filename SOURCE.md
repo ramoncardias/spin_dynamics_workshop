@@ -24,10 +24,11 @@ as a normal Git diff.
 - retained only the packages imported by the workshop;
 - cleared stored outputs and execution counts for reproducibility;
 - corrected the DMI contribution to the effective field so it is consistent with
-  (mathbf H_i^{mathrm{eff}}=-partial E/partialmathbf S_i);
+  $\mathbf{H}^{\mathrm{eff}}_i=-\partial E/\partial\mathbf{S}_i$;
 - added a finite-difference energy-gradient test;
-- wrote the Gilbert prefactor (1/(1+alpha^2)) explicitly in the LLG torque;
-- increased the introductory relaxation from one step to a short visible trajectory.
+- wrote the Gilbert prefactor $1/(1+\alpha^2)$ explicitly in the LLG torque;
+- increased the introductory relaxation from one step to a short visible trajectory;
+- normalized Markdown math delimiters and added recursive formatting validation.
 
 ## License
 
