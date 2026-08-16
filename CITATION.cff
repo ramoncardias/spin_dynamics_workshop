@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this workshop, please cite it using the metadata below."
+title: "Spin Dynamics Workshop"
+type: software
+authors:
+  - family-names: Cardias
+    given-names: Ramon
+repository-code: "https://github.com/ramoncardias/spin_dynamics_workshop"
+license: GPL-3.0
+version: 0.1.0
+date-released: 2026-08-16
+
