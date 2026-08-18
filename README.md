@@ -1,7 +1,7 @@
 # Spin Dynamics Workshop
 
-[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ramoncardias/spin_dynamics_workshop/73e8ff8cd03c217f360c9c01405ef957b790b7db?urlpath=lab/tree/spin_dynamics_workshop_tutorial.ipynb)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ramoncardias/spin_dynamics_workshop/blob/73e8ff8cd03c217f360c9c01405ef957b790b7db/spin_dynamics_workshop_tutorial.ipynb)
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ramoncardias/spin_dynamics_workshop/main?urlpath=lab/tree/spin_dynamics_workshop_tutorial.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ramoncardias/spin_dynamics_workshop/blob/main/spin_dynamics_workshop_tutorial.ipynb)
 
 ## About
 
@@ -84,4 +84,3 @@ On Windows PowerShell, activate the environment with:
 
 The notebook generates its own lattice and interaction files, so no external dataset,
 DFT code, or dedicated spin-dynamics package is required.
-

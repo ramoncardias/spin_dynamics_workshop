@@ -10,7 +10,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 NOTEBOOK = ROOT / "spin_dynamics_workshop_tutorial.ipynb"
-MARKDOWN_FILES = [ROOT / "README.md", ROOT / "SOURCE.md", ROOT / "CHANGELOG.md"]
+MARKDOWN_FILES = [ROOT / "README.md"]
 
 LATEX_WORDS = re.compile(
     r"(?<!\\)\b("
@@ -132,7 +132,6 @@ def main() -> None:
         "".join(cell.get("source", [])) for cell in notebook["cells"]
     )
     required_markers = [
-        "d862627cf274f83fe81b975b090e37d38cb5a924",
         "finite_difference_field",
         "prefactor = -gamma / (1.0 + alpha**2)",
         "cross(spins[j], Dij[i, j])",

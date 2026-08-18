@@ -6,7 +6,5 @@ authors:
   - family-names: Cardias
     given-names: Ramon
 repository-code: "https://github.com/ramoncardias/spin_dynamics_workshop"
-license: GPL-3.0
-version: 0.1.0
-date-released: 2026-08-16
-
+version: 1.0.0
+date-released: 2026-08-17
